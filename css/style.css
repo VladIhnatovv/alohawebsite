@@ -212,7 +212,7 @@ body {
   }
 
   .hamburger {
-    left: 80%;
+    left: 70%;
     position: fixed;
     z-index: 9999;
     display: block;
