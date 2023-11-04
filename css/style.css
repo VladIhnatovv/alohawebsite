@@ -230,11 +230,7 @@ body {
     transform: translateY(-8px) rotate(-45deg);
   }
 }
-@media only screen and (max-width: 520px) {
-  .hamburger {
-    left: 90%;
-  }
-}
+
 /*------------------------------------------------------------*/
 
 @media (max-width: 1199px) {
