@@ -212,7 +212,7 @@ body {
   }
 
   .hamburger {
-    left: 95%;
+    left: 80%;
     position: fixed;
     z-index: 9999;
     display: block;
@@ -228,12 +228,6 @@ body {
 
   .hamburger.active .bar:nth-child(3) {
     transform: translateY(-8px) rotate(-45deg);
-  }
-}
-@media only screen and (max-width: 520px) {
-  .hamburger {
-    left: 80%;
-    margin-right: 10px;
   }
 }
 
