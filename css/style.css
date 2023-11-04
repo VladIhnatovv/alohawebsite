@@ -129,7 +129,7 @@ body {
 .creat__title {
   transform: translate(0px, 120%);
   opacity: 0;
-  transition: all 0.8s ease 0s;
+  transition: all 2s ease 0s;
   margin-top: 134px;
   font-family: "Poppins";
   font-style: normal;
@@ -212,6 +212,8 @@ body {
   }
 
   .hamburger {
+    left: 95%;
+    position: fixed;
     z-index: 9999;
     display: block;
     cursor: pointer;
@@ -251,7 +253,7 @@ body {
 .mywork__title {
   margin-top: 84px;
   transform: translate(-120%, 0px);
-  transition: all 1s ease 0s;
+  transition: all 2s ease 0s;
 }
 .mywork__title._active {
   transform: translate(0px, 0px);
@@ -276,7 +278,7 @@ body {
 }
 .item__subtitle_first {
   transform: translate(0px, -120%);
-  transition: all 1s ease 0s;
+  transition: all 2s ease 0s;
   opacity: 0;
   font-family: "Poppins";
   font-style: normal;
@@ -319,7 +321,7 @@ body {
 }
 .item__subtitle_second {
   transform: translate(-120%, 0px);
-  transition: all 1s ease 0s;
+  transition: all 2s ease 0s;
   opacity: 0;
   font-family: "Poppins";
   font-style: normal;
@@ -377,7 +379,7 @@ body {
 }
 .block__title {
   transform: translate(-120%, 0px);
-  transition: all 1s ease 0s;
+  transition: all 2s ease 0s;
   opacity: 0;
   display: flex;
   text-align: left;
@@ -395,7 +397,7 @@ body {
 }
 .block__subtitle {
   transform: translate(-120%, 0px);
-  transition: all 1s ease 0s;
+  transition: all 2s ease 0s;
   opacity: 0;
   display: flex;
   text-align: left;
@@ -437,7 +439,7 @@ body {
 /*---------------------------------------------------------------------*/
 .footer__title {
   transform: translate(-120%, 0px);
-  transition: all 1s ease 0s;
+  transition: all 2s ease 0s;
   opacity: 0;
   margin-top: 84px;
   margin-bottom: 56px;
