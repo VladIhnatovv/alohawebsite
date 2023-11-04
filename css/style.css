@@ -233,6 +233,7 @@ body {
 @media only screen and (max-width: 520px) {
   .hamburger {
     left: 80%;
+    margin-right: 10px;
   }
 }
 
