@@ -212,7 +212,7 @@ body {
   }
 
   .hamburger {
-    left: 80%;
+    left: 95%;
     position: fixed;
     z-index: 9999;
     display: block;
@@ -231,6 +231,11 @@ body {
   }
 }
 @media only screen and (max-width: 520px) {
+  .hamburger {
+    left: 90%;
+  }
+}
+@media only screen and (max-width: 420px) {
   .hamburger {
     left: 90%;
   }
