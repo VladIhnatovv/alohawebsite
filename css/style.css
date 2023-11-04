@@ -235,12 +235,6 @@ body {
     left: 90%;
   }
 }
-@media only screen and (max-width: 420px) {
-  .hamburger {
-    left: 90%;
-  }
-}
-
 /*------------------------------------------------------------*/
 
 @media (max-width: 1199px) {
